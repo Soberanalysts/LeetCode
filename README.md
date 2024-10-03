@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Soberanalysts/LeetCode/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Soberanalysts/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soberanalysts/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0733-flood-fill](https://github.com/Soberanalysts/LeetCode/tree/master/0733-flood-fill) |
 ## Hash Table
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Soberanalysts/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Soberanalysts/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## String
 |  |
@@ -38,4 +40,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Soberanalysts/LeetCode/tree/master/0733-flood-fill) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Soberanalysts/LeetCode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
