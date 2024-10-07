@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Soberanalysts/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0278-first-bad-version](https://github.com/Soberanalysts/LeetCode/tree/master/0278-first-bad-version) |
 ## Binary Tree
 |  |
 | ------- |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Soberanalysts/LeetCode/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Soberanalysts/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
