@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Soberanalysts/LeetCode/tree/master/0242-valid-anagram) |
+| [1894-merge-strings-alternately](https://github.com/Soberanalysts/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Soberanalysts/LeetCode/tree/master/0141-linked-list-cycle) |
+| [1894-merge-strings-alternately](https://github.com/Soberanalysts/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Interactive
 |  |
 | ------- |
